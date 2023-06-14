@@ -1,5 +1,6 @@
 # HostProtect
-A program to add dns blocking, based on user selection
+A program to add dns blocking, based on user selection.
+<img src="https://github.com/Jasper1467/HostProtect/blob/master/img/menu.jpg" alt="menu screenshot" />
 
 # How to use
 1. Download the latest release open HostProtect.exe as admin.
